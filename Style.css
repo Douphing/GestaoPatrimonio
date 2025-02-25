@@ -1,0 +1,26 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+layout{
+    width: 792px;
+    padding: right 120px;
+    background-color: #164194;
+    
+}
+
+body {
+   
+
+    height: 1024vh;
+}
+
+screen:hover{
+    width: 648px;
+}
+
+
